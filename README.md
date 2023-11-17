@@ -7,7 +7,7 @@
 
 
 <div align="center">
-  <img alt="Demo" src="./Assets/chatify.png" />
+  <img alt="Demo" src="./Assets/chatify.png.png" />
 </div>
 
 </div>
